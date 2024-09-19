@@ -1,0 +1,18 @@
+# ninja log v5
+15	411	7484301861528800	CMakeFiles/CMakeTarget.dir/Lession_10_Task_2.cpp.obj	11cdcd3d168cd62f
+7	267	7482090116967086	CMakeFiles/CMakeTarget.dir/Square.cpp.obj	33d0f261b51444d
+18	258	7484301859997201	CMakeFiles/CMakeTarget.dir/isoscelesTriangle.cpp.obj	375bd6424158584e
+21	453	7478871317166310	CMakeFiles/CMakeTarget.dir/rightTriangle.cpp.obj	7d43713789f3e43c
+410	504	7478845510524063	CMakeTarget.exe	f3dcf0cb1c40b747
+13	410	7478844951674504	CMakeFiles/CMakeTarget.dir/V1.cpp.obj	1497d4a472c3849b
+9	500	7478871317326283	CMakeFiles/CMakeTarget.dir/Rectangle.cpp.obj	3c77cde4e348b876
+8	448	7478871317106318	CMakeFiles/CMakeTarget.dir/Quadrilateral.cpp.obj	596156dc979b75bf
+5	500	7478871317576465	CMakeFiles/CMakeTarget.dir/Parallelogram.cpp.obj	271f008dbd7ed175
+13	462	7478871317256316	CMakeFiles/CMakeTarget.dir/Triangle.cpp.obj	cae43f06e1035e52
+11	460	7478871317226303	CMakeFiles/CMakeTarget.dir/Rhomb.cpp.obj	fc77534a86a8cdcb
+18	620	7478871318827333	CMakeFiles/CMakeTarget.dir/printFigure.cpp.obj	e7dcfc3eb9c2a5a0
+13	128	7484309851344497	build.ninja	cbff0b9ffe7b1309
+4	235	7484301380608569	CMakeFiles/CMakeTarget.dir/equilateralTriangle.cpp.obj	8c368fd8fe2e8932
+9	511	7484309906120503	CMakeFiles/CMakeTarget.dir/Square.cpp.obj	33d0f261b51444d
+12	515	7484309906168584	CMakeFiles/CMakeTarget.dir/Figure.cpp.obj	74802d461090b9a9
+515	655	7484309907064762	CMakeTarget.exe	f9d78b73a92979a5
